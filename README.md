@@ -15,8 +15,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="git" width="32" height="32"/>
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git" width="32" height="32"/>
-
-  
 </p>
+
 ## Follow me
 - Add **<a href="https://www.linkedin.com/in/maxime-dhaisne">Maxime Dhaisne</a> on LinkedIn**
