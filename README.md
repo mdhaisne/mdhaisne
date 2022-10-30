@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Softwares with Python, C++ and Rust**
-- 📫 How to reach me: ...
+- 📫 How to reach me: contact@mdhaisne.dev
 
 ## Tools I use
 <p align="left">
